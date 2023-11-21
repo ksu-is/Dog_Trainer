@@ -7,3 +7,4 @@
 - [] Develop user input for application
 - [x] Create feedback comments based on dog's behavior
 - [x] Update high score for app
+- [x] Develop code
