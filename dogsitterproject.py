@@ -4,22 +4,24 @@ def good_behavior():
 good_behavior()
 
 def bad_behavior():
-    phase = "No"
+    phase = ("No")
     print(phase+"!")
 bad_behavior()
 
 def yell_this(phrase):
-    print(phrase upper() + "!")
-yell_this("Good Job")
+    print(phrase+"Good Job!")
+    
+def barks():
+    print(No, -1)
+    
+def dog_name(): capitalize()
 
-def scratch_door():
-    phase = "Dog needs to go outside"
-scratch_door():
-    
-def whine():
-    
-dog_name = input("Max: ").capitalize()
 if dog_name (barks):
     print(No)
 elif dog_name (sits):
-    print(Good Job)
+    print("Good Job, +1")
+    
+if dog_name (good_behavior):
+    print(-1)
+if dog_name (bad_behavior):
+    print(+1)
