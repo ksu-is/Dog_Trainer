@@ -4,7 +4,7 @@ def good_behavior():
 good_behavior()
 
 def bad_behavior():
-    phase = ("No")
+    phase = ("No, -1")
     print(phase+"!")
 bad_behavior()
 
