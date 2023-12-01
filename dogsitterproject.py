@@ -22,6 +22,6 @@ elif dog_name (sits):
     print("Good Job, +1")
     
 if dog_name (good_behavior):
-    print(-1)
+    print(Great Job, +1)
 if dog_name (bad_behavior):
-    print(+1)
+    print(No, -1)
